@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Test1",
+        "measurement": "08:36",
+        "image": "test1.jpg"
+    },
+    {
+        "name": "Test2",
+        "measurement": "33:05",
+        "image": "test2.jpg"
+    },
+    {
+        "name": "Test3",
+        "measurement": "08:36",
+        "image": "test3.jpg"
+    },
+    {
+        "name": "Test4",
+        "measurement": "08:36",
+        "image": "test4.jpg"
+    }
+]
+
